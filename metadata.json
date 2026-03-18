@@ -1,0 +1,7 @@
+{
+  "name": "Nuestra Boda - Alejandro & Lucía",
+  "description": "Una invitación de boda elegante y dinámica con música, itinerario, mapa y confirmación de asistencia.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
